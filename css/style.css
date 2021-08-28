@@ -6,6 +6,7 @@ body {
     background: url(../img/build.jpg) top no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
     height: 100%;
     opacity: 0.9;
 }
@@ -14,6 +15,16 @@ body {
     background: url(../img/street.jpg) top no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-position: center;
+    height: 100%;
+    opacity: 0.9;
+}
+
+.section3 {
+    background: url(../img/blur.jpg) top no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
     height: 100%;
     opacity: 0.9;
 }
