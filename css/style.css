@@ -1,0 +1,24 @@
+body {
+    height: 95vh;
+}
+
+.section1 {
+    background: url(../img/build.jpg) top no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    opacity: 0.9;
+}
+
+.section2 {
+    background: url(../img/street.jpg) top no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    opacity: 0.9;
+}
+
+.back-box {
+    padding: 20px;
+    box-sizing: border-box;
+}
